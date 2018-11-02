@@ -30,8 +30,6 @@ Parameters used:
 ![image11](./uu_000089.png)
 
 
-###Project Reflections
-
 ### Setup
 ##### GPU
 `main.py` will check to make sure you are using GPU - if you don't have a GPU on your system, you can use AWS or another cloud computing platform.
